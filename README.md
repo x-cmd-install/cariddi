@@ -1,0 +1,6 @@
+---
+owner-repo: edoardottt/cariddi
+desc:   Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more 
+---
+
+# cariddi
