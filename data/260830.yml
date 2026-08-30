@@ -1,0 +1,58 @@
+about:
+  description: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+  license: GPL-3.0
+  homepage: https://edoardottt.com/
+  head: de52cc0
+  archived: false
+  latestVersion: v1.4.6
+  collectedAt: 2026-08-30T05:26:06Z
+timeline:
+  created: 2021-04-27
+  lastCommit: 2026-07-15
+  lastRelease: 2026-03-29
+popularity:
+  star: 3756
+  watcher: 20
+  fork: 345
+  release: 27
+  contributor: 10
+  pullRequest: 12
+  issue: 79
+language:
+  Go: 151653
+  Batchfile: 1248
+  Makefile: 1235
+totalLine: 154136
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 1
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last180d:
+    since: 2026-03-03
+    release: 1
+    mergedPR: 12
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last360d:
+    since: 2025-09-04
+    release: 4
+    mergedPR: 33
+    openPR: 2
+    closedIssue: 10
+    openIssue: 0
+    commit: 33
