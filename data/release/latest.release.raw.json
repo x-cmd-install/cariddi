@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4514783,
       "digest": "sha256:b8268f76bd6c4eda79615791b26676ec392a3eb2a73568a29f6e5af297ff5696",
-      "download_count": 1672,
+      "download_count": 1677,
       "created_at": "2026-03-29T09:20:52Z",
       "updated_at": "2026-03-29T09:20:52Z",
       "browser_download_url": "https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_linux_amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4528942,
       "digest": "sha256:f6aa235d9a0921e3e8d70b09471d03ba9861e3656ae02dc98635a0c09319af05",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-03-29T09:20:51Z",
       "updated_at": "2026-03-29T09:20:51Z",
       "browser_download_url": "https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_386.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4633974,
       "digest": "sha256:ca010812bb3b96907e51e46b36a2bcd9f575e27a933c1478c912727ce84c53ac",
-      "download_count": 147,
+      "download_count": 148,
       "created_at": "2026-03-29T09:20:51Z",
       "updated_at": "2026-03-29T09:20:51Z",
       "browser_download_url": "https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_amd64.zip"
