@@ -4,7 +4,7 @@
 
 Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 
-![cariddi](https://repo.x-cmd.io/cariddi.svg)
+![cariddi](https://repo.x-cmd.io/cariddi.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,20 @@ x install cariddi
 - **最新版本**: `v1.4.6` (2026-03-29)
 - **最近提交**: 2026-07-15
 - **Release 含资产**: 9 个
-- **发布时间**: 2026-03-29T09:20:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cariddi_1.4.6_checksums.txt](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_checksums.txt) | 766 B | `other` |
+| [cariddi_1.4.6_linux_386.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_linux_386.zip) | 4.2 MiB | `other` |
+| [cariddi_1.4.6_linux_amd64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_linux_amd64.zip) | 4.3 MiB | `native/linux/x64` |
+| [cariddi_1.4.6_linux_arm.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_linux_arm.zip) | 4.1 MiB | `native/linux/arm` |
+| [cariddi_1.4.6_linux_arm64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_linux_arm64.zip) | 4.0 MiB | `native/linux/arm64` |
+| [cariddi_1.4.6_macOS_amd64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_macOS_amd64.zip) | 4.4 MiB | `native/darwin/x64` |
+| [cariddi_1.4.6_macOS_arm64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_macOS_arm64.zip) | 4.1 MiB | `native/darwin/arm64` |
+| [cariddi_1.4.6_windows_386.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_386.zip) | 4.3 MiB | `native/win/x64` |
+| [cariddi_1.4.6_windows_amd64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_amd64.zip) | 4.4 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +85,4 @@ cariddi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:08Z._
