@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.6"
   latestRelease: "v1.4.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:36:20Z
+  collectedAt: 2026-09-10T22:13:50Z
 timeline:
   created: 2021-04-27
   lastCommit: 2026-07-15
@@ -85,7 +85,7 @@ total:
   commit: 753
 ---
 path: /home/runner/.x-repo/github.com/edoardottt/cariddi
-collectedAt: 2026-09-10T21:36:20Z
+collectedAt: 2026-09-10T22:13:51Z
 loc:
   Go:
     code: 3863
