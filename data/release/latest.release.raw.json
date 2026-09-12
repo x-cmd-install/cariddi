@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4514783,
       "digest": "sha256:b8268f76bd6c4eda79615791b26676ec392a3eb2a73568a29f6e5af297ff5696",
-      "download_count": 1703,
+      "download_count": 1713,
       "created_at": "2026-03-29T09:20:52Z",
       "updated_at": "2026-03-29T09:20:52Z",
       "browser_download_url": "https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_linux_amd64.zip"
