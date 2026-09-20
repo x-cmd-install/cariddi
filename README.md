@@ -4,7 +4,7 @@
 
 Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 
-![cariddi](https://repo.x-cmd.io/cariddi.svg)
+[![x-cmd/install — cariddi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cariddi.svg)](https://x-cmd.com/install/cariddi)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,772 · **Forks**: 344 · **Open issues**: 79 · **Contributors**: 9
+- **Stars**: 3,777 · **Forks**: 344 · **Open issues**: 79 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last180d | 2026-03-22 | 1 | 12 | 3 | 0 | 0 | 13 |
-| 360d | 2025-09-23 | 3 | 31 | 3 | 10 | 0 | 30 |
-| last720d | 2024-09-28 | 8 | 60 | 4 | 15 | 2 | 153 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 1 | 3 | 0 | 0 | 1 |
+| last180d | 2026-03-24 | 1 | 10 | 3 | 0 | 0 | 13 |
+| 360d | 2025-09-25 | 3 | 31 | 3 | 10 | 0 | 30 |
+| last720d | 2024-09-30 | 8 | 60 | 4 | 15 | 2 | 153 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:04:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:07:13Z._
