@@ -4,7 +4,7 @@
 
 Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 
-[![x-cmd/install — cariddi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cariddi.svg)](https://x-cmd.com/install/cariddi)
+[![x-cmd/install — cariddi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cariddi.svg)](https://x-cmd.com/install/cariddi)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,777 · **Forks**: 344 · **Open issues**: 79 · **Contributors**: 9
+- **Stars**: 3,778 · **Forks**: 345 · **Open issues**: 79 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 153 · **Open PRs**: 6 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 753
+- **Releases**: 27 · **Merged PRs**: 153 · **Open PRs**: 7 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last180d | 2026-03-26 | 1 | 10 | 3 | 0 | 0 | 6 |
-| 360d | 2025-09-27 | 3 | 31 | 3 | 10 | 0 | 29 |
-| last720d | 2024-10-02 | 8 | 60 | 4 | 15 | 2 | 153 |
+| 30d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 1 | 4 | 0 | 0 | 1 |
+| last180d | 2026-03-27 | 1 | 10 | 4 | 0 | 0 | 6 |
+| 360d | 2025-09-28 | 3 | 31 | 4 | 10 | 0 | 29 |
+| last720d | 2024-10-03 | 8 | 60 | 5 | 15 | 2 | 153 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:14:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:04:25Z._
