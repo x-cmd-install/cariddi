@@ -22,7 +22,7 @@ Total: **4,011** lines of code across **35** files in the top 5 languages.
 | Batch | 79 | 0 | 18 | 1 |
 | Makefile | 50 | 0 | 11 | 1 |
 | Yaml | 19 | 0 | 3 | 1 |
-| Markdown | 0 | 228 | 66 | 1 |
+| Markdown | 0 | 224 | 66 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.6` (2026-03-29)
-- **Last commit**: 2026-07-15
+- **Last commit**: 2026-09-28
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,779 · **Forks**: 345 · **Open issues**: 79 · **Contributors**: 9
+- **Stars**: 3,778 · **Forks**: 345 · **Open issues**: 79 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 153 · **Open PRs**: 7 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 753
+- **Releases**: 27 · **Merged PRs**: 153 · **Open PRs**: 7 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 754
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 1 | 4 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 8 | 4 | 0 | 0 | 6 |
-| 360d | 2025-10-03 | 3 | 29 | 4 | 10 | 0 | 29 |
-| last720d | 2024-10-08 | 8 | 60 | 5 | 15 | 2 | 153 |
+| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 0 | 1 |
+| last60d | 2026-07-31 | 0 | 0 | 2 | 0 | 0 | 1 |
+| 90d | 2026-07-01 | 0 | 1 | 4 | 0 | 0 | 1 |
+| last180d | 2026-04-02 | 0 | 8 | 4 | 0 | 0 | 7 |
+| 360d | 2025-10-04 | 3 | 29 | 4 | 10 | 0 | 30 |
+| last720d | 2024-10-09 | 8 | 60 | 5 | 15 | 2 | 154 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:45:42Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:59:21Z._
