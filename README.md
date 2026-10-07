@@ -30,7 +30,7 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
 - **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-08-07 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-07-08 | 0 | 0 | 4 | 0 | 0 | 1 |
-| last180d | 2026-04-09 | 0 | 8 | 4 | 0 | 0 | 7 |
-| 360d | 2025-10-11 | 3 | 29 | 4 | 10 | 0 | 30 |
-| last720d | 2024-10-16 | 8 | 60 | 5 | 15 | 2 | 154 |
+| 30d | 2026-09-07 | 0 | 0 | 2 | 0 | 0 | 1 |
+| last60d | 2026-08-08 | 0 | 0 | 2 | 0 | 0 | 1 |
+| 90d | 2026-07-09 | 0 | 0 | 4 | 0 | 0 | 1 |
+| last180d | 2026-04-10 | 0 | 8 | 4 | 0 | 0 | 7 |
+| 360d | 2025-10-12 | 3 | 29 | 4 | 10 | 0 | 30 |
+| last720d | 2024-10-17 | 8 | 60 | 5 | 15 | 2 | 154 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:35:31Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:05:39Z._
