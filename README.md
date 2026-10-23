@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.4.6` (2026-03-29)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-22
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 3,798 · **Forks**: 345 · **Open issues**: 79 · **Contributors**: 9
+- **Stars**: 3,799 · **Forks**: 345 · **Open issues**: 79 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 153 · **Open PRs**: 7 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 754
+- **Releases**: 27 · **Merged PRs**: 153 · **Open PRs**: 7 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 755
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 1 |
-| 90d | 2026-07-24 | 0 | 0 | 4 | 0 | 0 | 1 |
-| last180d | 2026-04-25 | 0 | 6 | 4 | 0 | 0 | 6 |
-| 360d | 2025-10-27 | 3 | 29 | 4 | 10 | 0 | 30 |
-| last720d | 2024-11-01 | 8 | 56 | 5 | 14 | 2 | 147 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-24 | 0 | 0 | 2 | 0 | 0 | 2 |
+| 90d | 2026-07-25 | 0 | 0 | 3 | 0 | 0 | 2 |
+| last180d | 2026-04-26 | 0 | 6 | 4 | 0 | 0 | 7 |
+| 360d | 2025-10-28 | 3 | 29 | 4 | 7 | 0 | 31 |
+| last720d | 2024-11-02 | 8 | 56 | 5 | 14 | 2 | 148 |
 
 ## Release assets
 
@@ -79,6 +79,16 @@ Lowest-scoring checks:
 | [cariddi_1.4.6_windows_386.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_386.zip) | 4.3 MiB | `native/win/x64` |
 | [cariddi_1.4.6_windows_amd64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_amd64.zip) | 4.4 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/cariddi). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.4.6` | ✅ latest |
+| Nix unstable | `1.4.6` | ✅ latest |
+| Alpine edge | `1.4.5` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cariddi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +98,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:51:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:54:58Z._
