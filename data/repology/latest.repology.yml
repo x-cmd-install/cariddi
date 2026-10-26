@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: cariddi
-  visiblename: cariddi
-  version: 1.4.1
-  origversion: null
-  status: outdated
-  summary: Crawler for URLs and endpoints
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_edge
   subrepo: testing
   srcname: cariddi
@@ -50,10 +39,20 @@
   srcname: cariddi
   binname: cariddi
   visiblename: cariddi
-  version: v1.4.6.r15.g5ae392d
-  origversion: v1.4.6.r15.g5ae392d-1
+  version: v1.4.6.r16.g39aebc1
+  origversion: v1.4.6.r16.g39aebc1-1
   status: outdated
   summary: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, token.
+  licenses:
+    - GPL3
+- repo: blackarch
+  srcname: cariddi
+  binname: cariddi-debug
+  visiblename: cariddi-debug
+  version: v1.4.6.r16.g39aebc1
+  origversion: v1.4.6.r16.g39aebc1-1
+  status: outdated
+  summary: Detached debugging symbols for cariddi
   licenses:
     - GPL3
 - repo: homebrew
@@ -85,6 +84,17 @@
   srcname: cariddi
   visiblename: cariddi
   version: 1.3.5
+  origversion: null
+  status: outdated
+  summary: Crawler for URLs and endpoints
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: cariddi
+  visiblename: cariddi
+  version: 1.4.1
   origversion: null
   status: outdated
   summary: Crawler for URLs and endpoints
