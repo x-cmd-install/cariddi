@@ -37,22 +37,22 @@
     - GPL-3.0
 - repo: blackarch
   srcname: cariddi
-  binname: cariddi
-  visiblename: cariddi
-  version: v1.4.6.r16.g39aebc1
-  origversion: v1.4.6.r16.g39aebc1-1
-  status: outdated
-  summary: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, token.
-  licenses:
-    - GPL3
-- repo: blackarch
-  srcname: cariddi
   binname: cariddi-debug
   visiblename: cariddi-debug
   version: v1.4.6.r16.g39aebc1
   origversion: v1.4.6.r16.g39aebc1-1
   status: outdated
   summary: Detached debugging symbols for cariddi
+  licenses:
+    - GPL3
+- repo: blackarch
+  srcname: cariddi
+  binname: cariddi
+  visiblename: cariddi
+  version: v1.4.6.r16.g39aebc1
+  origversion: v1.4.6.r16.g39aebc1-1
+  status: outdated
+  summary: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, token.
   licenses:
     - GPL3
 - repo: homebrew
