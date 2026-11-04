@@ -26,13 +26,13 @@ x install cariddi
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.7 / 10**
+总评分: **5.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/9 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (2/10) — 2 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 2
+- **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install cariddi
 
 ## 流行度
 
-- **Star**: 3,811 · **Fork**: 344 · **开放 issue**: 79 · **贡献者**: 9
+- **Star**: 3,809 · **Fork**: 344 · **开放 issue**: 79 · **贡献者**: 9
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install cariddi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-04 | 0 | 0 | 1 | 0 | 0 | 2 |
-| 90d | 2026-08-05 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last180d | 2026-05-07 | 0 | 6 | 2 | 0 | 0 | 6 |
-| 360d | 2025-11-08 | 3 | 29 | 2 | 0 | 0 | 31 |
-| last720d | 2024-11-13 | 8 | 54 | 2 | 14 | 2 | 144 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-05 | 0 | 0 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-06 | 0 | 0 | 1 | 0 | 0 | 2 |
+| last180d | 2026-05-08 | 0 | 6 | 2 | 0 | 0 | 6 |
+| 360d | 2025-11-09 | 3 | 29 | 2 | 0 | 0 | 31 |
+| last720d | 2024-11-14 | 8 | 54 | 2 | 14 | 2 | 144 |
 
 ## Release 资产
 
@@ -98,4 +98,4 @@ cariddi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T06:56:09Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:29:27Z._
