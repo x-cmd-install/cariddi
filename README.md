@@ -26,11 +26,11 @@ Total: **4,011** lines of code across **35** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (2/10) — 2 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 2
+- **Maintained** (3/10) — 2 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 3
 - **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 0 | 2 | 0 | 0 | 2 |
-| 90d | 2026-08-10 | 0 | 0 | 2 | 0 | 0 | 2 |
-| last180d | 2026-05-12 | 0 | 4 | 3 | 0 | 0 | 6 |
-| 360d | 2025-11-13 | 3 | 27 | 3 | 0 | 0 | 31 |
-| last720d | 2024-11-18 | 8 | 54 | 3 | 14 | 2 | 144 |
+| 30d | 2026-10-10 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-10 | 0 | 0 | 2 | 0 | 0 | 2 |
+| 90d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 2 |
+| last180d | 2026-05-13 | 0 | 4 | 3 | 0 | 0 | 6 |
+| 360d | 2025-11-14 | 2 | 27 | 3 | 0 | 0 | 28 |
+| last720d | 2024-11-19 | 8 | 54 | 3 | 14 | 2 | 144 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:11:14Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:32:25Z._
