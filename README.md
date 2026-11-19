@@ -30,8 +30,8 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 2 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 3
 - **Code-Review** (0/10) — Found 0/10 approved changesets -- score normalized to 0
+- **Maintained** (3/10) — 2 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,814 · **Forks**: 344 · **Open issues**: 79 · **Contributors**: 9
+- **Stars**: 3,816 · **Forks**: 345 · **Open issues**: 79 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 1 | 1 | 0 | 0 | 2 |
-| 90d | 2026-08-19 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last180d | 2026-05-21 | 0 | 5 | 2 | 0 | 0 | 3 |
-| 360d | 2025-11-22 | 2 | 26 | 2 | 0 | 0 | 27 |
-| last720d | 2024-11-27 | 8 | 55 | 2 | 13 | 2 | 144 |
+| 30d | 2026-10-20 | 0 | 1 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 1 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-21 | 0 | 1 | 1 | 0 | 0 | 2 |
+| last180d | 2026-05-23 | 0 | 5 | 2 | 0 | 0 | 3 |
+| 360d | 2025-11-24 | 2 | 25 | 2 | 0 | 0 | 27 |
+| last720d | 2024-11-29 | 8 | 55 | 2 | 13 | 2 | 144 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:17:54Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:28:25Z._
