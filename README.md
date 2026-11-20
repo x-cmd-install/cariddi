@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 154 · **Open PRs**: 4 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 755
+- **Releases**: 27 · **Merged PRs**: 154 · **Open PRs**: 5 · **Closed issues**: 71 · **Open issues**: 8 · **Commits**: 755
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 1 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-20 | 0 | 1 | 1 | 0 | 0 | 2 |
-| 90d | 2026-08-21 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last180d | 2026-05-23 | 0 | 5 | 2 | 0 | 0 | 3 |
-| 360d | 2025-11-24 | 2 | 25 | 2 | 0 | 0 | 27 |
-| last720d | 2024-11-29 | 8 | 55 | 2 | 13 | 2 | 144 |
+| 30d | 2026-10-21 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-21 | 0 | 1 | 2 | 0 | 0 | 2 |
+| 90d | 2026-08-22 | 0 | 1 | 2 | 0 | 0 | 2 |
+| last180d | 2026-05-24 | 0 | 4 | 3 | 0 | 0 | 3 |
+| 360d | 2025-11-25 | 2 | 25 | 3 | 0 | 0 | 27 |
+| last720d | 2024-11-30 | 8 | 55 | 3 | 13 | 2 | 144 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:28:25Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:35:21Z._
