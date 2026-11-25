@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,848 · **Forks**: 350 · **Open issues**: 79 · **Contributors**: 9
+- **Stars**: 3,854 · **Forks**: 350 · **Open issues**: 79 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 1 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 0 | 1 | 2 | 0 | 0 | 2 |
-| last180d | 2026-05-28 | 0 | 2 | 3 | 0 | 0 | 3 |
-| 360d | 2025-11-29 | 2 | 24 | 3 | 0 | 0 | 25 |
-| last720d | 2024-12-04 | 8 | 55 | 3 | 13 | 2 | 144 |
+| 30d | 2026-10-26 | 0 | 1 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-27 | 0 | 1 | 2 | 0 | 0 | 2 |
+| last180d | 2026-05-29 | 0 | 2 | 3 | 0 | 0 | 3 |
+| 360d | 2025-11-30 | 2 | 24 | 3 | 0 | 0 | 25 |
+| last720d | 2024-12-05 | 8 | 55 | 3 | 13 | 2 | 144 |
 
 ## Release assets
 
@@ -79,16 +79,6 @@ Lowest-scoring checks:
 | [cariddi_1.4.6_windows_386.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_386.zip) | 4.3 MiB | `native/win/x64` |
 | [cariddi_1.4.6_windows_amd64.zip](https://github.com/edoardottt/cariddi/releases/download/v1.4.6/cariddi_1.4.6_windows_amd64.zip) | 4.4 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/cariddi). **5** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.4.6` | ✅ latest |
-| Nix unstable | `1.4.6` | ✅ latest |
-| Alpine edge | `1.4.5` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cariddi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +88,4 @@ Install metadata for cariddi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:11:48Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:05:35Z._
